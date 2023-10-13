@@ -9,7 +9,7 @@
 <body>
     <div class="card">
         <h1 align="center">ECOMERCE-EN-LARAVEL</h1>
-        <p align="center">This is an E-commerce website. I have attached project screenshots during its execution. Contact me for a demo.</p>
+        <p align="center">This is an E-commerce website, just like any other. Here, we have the ability to retrieve the list of customers, their orders, and process their orders. With CinetPay, customers have the option to make their purchases. I have attached project screenshots during its execution. Contact me for a demo.</p>
       <h2 align="center">Connect with me</h2>
 
 <div align="center">
